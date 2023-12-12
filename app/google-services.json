@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156355011707",
+    "project_id": "chatapplication-905d6",
+    "storage_bucket": "chatapplication-905d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156355011707:android:01e3b89bd773ed14bb6ede",
+        "android_client_info": {
+          "package_name": "com.lucky.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyBE1n3kBTWtwN-hHL2amlKnW54Ay5lAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
